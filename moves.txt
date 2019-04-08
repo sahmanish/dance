@@ -1,0 +1,4 @@
+step left
+step right
+up and down
+do the dance
